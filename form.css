@@ -1,0 +1,32 @@
+.formbtn{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 15%;
+    height: 35px;
+    margin: 1.5rem;
+    background-color: #fff; 
+    z-index: 999999;
+}
+.div-container{
+    position: absolute;
+    top: 10rem; left: 5rem;
+    width: 80%;
+    height: 50%;
+    align-items: center;
+    justify-content: center;
+    background-color: #000;
+    color: #fff;
+    z-index: 9999999;  
+
+}
+input{
+    margin: 1rem;
+    font-size: 1.7rem;
+    color: #fff;
+}
+
+::placeholder {
+    color: #fff;
+    font-size: 1.4em;
+  }
