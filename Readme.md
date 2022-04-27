@@ -1,4 +1,4 @@
-##Form
+# Form
 a project showing how to create a javascript plugin
 
 **Getting Started**
